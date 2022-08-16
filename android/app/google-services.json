@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753798484641",
+    "project_id": "to-doist-43b62",
+    "storage_bucket": "to-doist-43b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753798484641:android:91735125e0e2a5963456e0",
+        "android_client_info": {
+          "package_name": "com.pavank.to_doist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753798484641-3jbparc10q0p7ilk8o21n1c0073hmaha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OFAkUMw0-QoujHriknV6AZINdHPQo-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753798484641-3jbparc10q0p7ilk8o21n1c0073hmaha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
